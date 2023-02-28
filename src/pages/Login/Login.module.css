@@ -1,0 +1,13 @@
+.Container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.Header {
+    margin-bottom: 24px;
+}
+
+.Header span {
+    color: #0a0a0a;
+}
